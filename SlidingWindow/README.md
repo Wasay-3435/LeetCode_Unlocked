@@ -122,7 +122,7 @@ therefore finds the global maximum.
 - Remember the lowest price encountered so far.
 - Evaluate the profit at each selling opportunity.
 - The optimized solution reduces time complexity from
-  `O(n^2)` to `O(n)`.
+  `O(n^2)` to `O(n)`
 
 ## LeetCode Submission
 
