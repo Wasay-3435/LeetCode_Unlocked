@@ -102,5 +102,5 @@ outputs using Python assertions.
 
 ## LeetCode Submission
 
-Submit the `Solution` class and its `containsDuplicate`
+Submit the `Solution` class and its `containsDuplicates`
 method from `solution.py`.
