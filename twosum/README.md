@@ -89,7 +89,7 @@ Hash-map lookup and insertion are O(1) on average.
 
 ## Key Learnings
 
-- Array indices start at zero in Python.
+- Array indices starts at zero in Python.
 - The problem asks for indices, not values.
 - A complement is `target - current_number`.
 - A hash map avoids repeatedly searching for pairs.
